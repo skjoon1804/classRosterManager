@@ -1,0 +1,4 @@
+class EmptyCourseListException extends Exception
+{
+
+}

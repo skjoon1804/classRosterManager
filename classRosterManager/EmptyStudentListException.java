@@ -1,0 +1,4 @@
+class EmptyStudentListException extends Exception
+{
+
+}

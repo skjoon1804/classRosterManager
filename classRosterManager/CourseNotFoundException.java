@@ -1,0 +1,4 @@
+class CourseNotFoundException extends Exception
+{
+
+}

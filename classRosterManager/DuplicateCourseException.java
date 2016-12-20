@@ -1,0 +1,4 @@
+class DuplicateCourseException extends Exception
+{
+
+}

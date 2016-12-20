@@ -1,0 +1,4 @@
+class StudentNotFoundException extends Exception
+{
+
+}

@@ -1,0 +1,4 @@
+class DuplicateStudentException extends Exception
+{
+
+}
